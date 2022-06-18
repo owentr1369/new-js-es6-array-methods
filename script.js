@@ -17,3 +17,10 @@ const items = [
 //   return item.name;
 // });
 // console.log(mapArray);
+
+// 3. Find method
+// const findMethod = items.find((item) => {
+//   return item.price === 100;
+// });
+// console.log(findMethod);
+// undefined if false
