@@ -36,3 +36,10 @@ const items = [
 // });
 // console.log(someMethod);
 // Output = false
+
+// 6. every method
+// const everyMethod = items.every((item) => {
+//   return item.price > 10;
+// });
+// console.log(everyMethod);
+// Output = true
