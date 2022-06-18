@@ -11,3 +11,9 @@ const items = [
 //   return item.price > 100;
 // });
 // console.log(filterArray);
+
+// 2. Map method
+// const mapArray = items.map((item) => {
+//   return item.name;
+// });
+// console.log(mapArray);
