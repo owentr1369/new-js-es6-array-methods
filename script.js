@@ -24,3 +24,8 @@ const items = [
 // });
 // console.log(findMethod);
 // undefined if false
+
+// 4.forEach method
+// items.forEach((item) => {
+//   console.log(item.price);
+// });
