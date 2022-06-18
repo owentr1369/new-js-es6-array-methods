@@ -51,3 +51,9 @@ const items = [
 // console.log(reduceMethod);
 // Output = 720
 // 0 : initial value of currentTotal
+
+// 8. includes method
+// const item2 = [1, 3, 5, 6, 2, 6, 7];
+// const includeMethod = item2.includes(6);
+// console.log(includeMethod);
+// Output = true
