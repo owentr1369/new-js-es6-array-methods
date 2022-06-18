@@ -29,3 +29,10 @@ const items = [
 // items.forEach((item) => {
 //   console.log(item.price);
 // });
+
+// 5. some method
+// const someMethod = items.some((item) => {
+//   return item.price > 300;
+// });
+// console.log(someMethod);
+// Output = false
