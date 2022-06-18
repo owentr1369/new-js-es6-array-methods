@@ -43,3 +43,11 @@ const items = [
 // });
 // console.log(everyMethod);
 // Output = true
+
+// 7. reduce method
+// const reduceMethod = items.reduce((currentTotal, item) => {
+//   return item.price + currentTotal;
+// }, 0);
+// console.log(reduceMethod);
+// Output = 720
+// 0 : initial value of currentTotal
